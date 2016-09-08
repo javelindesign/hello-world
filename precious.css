@@ -1,0 +1,30 @@
+html {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	line-height: 12pt;
+	font-size: 11pt;
+	
+}
+
+.container {
+	background: url(images/bganimals.jpg) no-repeat scroll right bottom;
+}
+
+body { padding-top: 40px; }
+
+h1 {
+	font-family: 'Lato', sans-serif;
+	font-weight: 300;
+	color: #87ceeb;
+	line-height: 26pt;
+	font-size: 22pt;
+}
+
+.footerblock {
+	margin-top: 40px;
+	background-color: #444;
+	color: #ccc;
+	padding: 20px;
+	font-size: 9pt;
+	line-height: 11pt;
+}
